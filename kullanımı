@@ -1,0 +1,5 @@
+git clone https://github.com/bygokhanyakut/web-site-klonalma
+cd web-site-klonalma
+pip install requests beautifulsoup4
+python webklonlama.py
+
